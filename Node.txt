@@ -1,190 +1,195 @@
-http = h517439.strongpipe.live:11743, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h517439.strongpipe.live:11743
-http = h738106.strongpipe.live:11343, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h738106.strongpipe.live:11343
-http = h738106.strongpipe.live:11345, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h738106.strongpipe.live:11345
-http = h3816tw.strongpipe.live:20444, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=🇨🇳 h3816tw.strongpipe.live:20444
-http = h63956.strongpipe.live:11243, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h63956.strongpipe.live:11243
-http = h738106.strongpipe.live:11543, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h738106.strongpipe.live:11543
-http = h961684.strongpipe.live:11343, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961684.strongpipe.live:11343
-http = h738106.strongpipe.live:11444, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h738106.strongpipe.live:11444
-https://www.example.com/
-https://raw.githubusercontent.com/PoetryU/Scientist/master/Profiles/UnblockNetMusic/unblock.yaml#checkurl=http://interface3.music.163.com, tag=UnblockNeteaseMusic, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Netease_Music_Unlock.png, update-interval=432000, opt-parser=true, enabled=true
-http = h192837.strongpipe.live:11245, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h192837.strongpipe.live:11245
-http = h961359.strongpipe.live:11545, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961359.strongpipe.live:11545
-http = h517439.strongpipe.live:11744, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h517439.strongpipe.live:11744
-http = h192837.strongpipe.live:11244, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h192837.strongpipe.live:11244
-http = h890361.strongpipe.live:11745, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h890361.strongpipe.live:11745
-http = h3816tw.strongpipe.live:20447, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=🇨🇳 h3816tw.strongpipe.live:20447
-http = h3816tw.strongpipe.live:20445, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=🇨🇳 h3816tw.strongpipe.live:20445
-https://raw.githubusercontent.com/crossutility/Quantumult-X/master/server-complete.snippet, tag=QuanX格式示范(导入后删除这两个示范), img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Quantumult_X.png, enabled=true
-http = h890361.strongpipe.live:11244, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h890361.strongpipe.live:11244
-https://sub.store/download/Dler, tag=𝗗𝗹𝗲𝗿𝗖𝗹𝗼𝘂𝗱, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Trojan_Letter.png, update-interval=86400, opt-parser=true, enabled=true
-http = h961684.strongpipe.live:11243, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961684.strongpipe.live:11243
-http = h890361.strongpipe.live:11543, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h890361.strongpipe.live:11543
-http = h517439.strongpipe.live:11545, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h517439.strongpipe.live:11545
-http = h738106.strongpipe.live:11545, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h738106.strongpipe.live:11545
-https://dingyue.suying666.info/link/vrSp0MMpQNPfbX2f?sub=3, tag=我的订阅, update-interval=172800, opt-parser=true, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/OvO.png, enabled=true
-http = h192837.strongpipe.live:11744, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h192837.strongpipe.live:11744
-https://raw.githubusercontent.com/erdongchanyo/Rules/main/Quantumult%20X/LazyConf/edcFreeServer.list, tag=edcFreeServer, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/Airport/EDC.png, update-interval=172800, opt-parser=false, enabled=true
-http = h961359.strongpipe.live:11444, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961359.strongpipe.live:11444
-https://raw.githubusercontent.com/crossutility/Quantumult-X/master/server-complete.snippet, tag=QuanX格式示范(导入后删除这两个示范),  img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Quantumult_X.png, enabled=true
-http = h517439.strongpipe.live:11244, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h517439.strongpipe.live:11244
-http = h961684.strongpipe.live:11544, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961684.strongpipe.live:11544
-http = h192837.strongpipe.live:11343, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h192837.strongpipe.live:11343
-https://raw.githubusercontent.com/crossutility/Quantumult-X/master/server.snippet#rename=[香港], tag=URI格式示范(请导入自己订阅), update-interval=86400, opt-parser=true, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Quantumult_X.png, enabled=true
-http = h961359.strongpipe.live:11445, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961359.strongpipe.live:11445
-https://proxies.bihai.cf/vmess/sub?filter=r, tag=TemporaryUse, update-interval=172800, opt-parser=true, enabled=true
-http = h890361.strongpipe.live:11245, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h890361.strongpipe.live:11245
-http = h961359.strongpipe.live:11744, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961359.strongpipe.live:11744
-https://sub.ssr.sh/link/aL9gzxbqvfbPUHFE?mu=1, tag=魅影极速, update-interval=86400, opt-parser=true, enabled=true
-http = h890361.strongpipe.live:11545, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h890361.strongpipe.live:11545
-http = h961684.strongpipe.live:11244, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961684.strongpipe.live:11244
-https://bulink.me/sub/gevexn/vm, tag=https://bulink.me/sub/gevexn/vm, update-interval=172800, opt-parser=true, enabled=false
-http = h890361.strongpipe.live:11243, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h890361.strongpipe.live:11243
-http = h517439.strongpipe.live:11243, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h517439.strongpipe.live:11243
-http = h517439.strongpipe.live:11745, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h517439.strongpipe.live:11745
-http = h517439.strongpipe.live:11543, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h517439.strongpipe.live:11543
-http = h192837.strongpipe.live:11443, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h192837.strongpipe.live:11443
-http = h961684.strongpipe.live:11543, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961684.strongpipe.live:11543
-http = h738106.strongpipe.live:11243, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h738106.strongpipe.live:11243
-http = h3816tw.strongpipe.live:20446, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=🇨🇳 h3816tw.strongpipe.live:20446
-http = h961359.strongpipe.live:11443, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961359.strongpipe.live:11443
-https://raw.fastgit.org/freefq/free/master/v2, tag=https://raw.fastgit.org/freefq/free/master/v2, update-interval=172800, opt-parser=true, enabled=true
-http = h63956.strongpipe.live:11345, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h63956.strongpipe.live:11345
-https://sub.pz.pe/subscribe/8EQ2H579BH1NMML3?app=quantumultx, tag=cmy, update-interval=172800, opt-parser=false, enabled=true
-http = h961684.strongpipe.live:11345, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961684.strongpipe.live:11345
-http = h517439.strongpipe.live:11343, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h517439.strongpipe.live:11343
-http = h63956.strongpipe.live:11543, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h63956.strongpipe.live:11543
-https://sub.sptao.net/api/v1/client/subscribe?token=4ac98a0fba12841cc1eb4eb40c359a12, tag=AAA, update-interval=172800, opt-parser=true, enabled=true
-http = h738106.strongpipe.live:11245, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h738106.strongpipe.live:11245
-http = h192837.strongpipe.live:11545, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h192837.strongpipe.live:11545
-http = h961684.strongpipe.live:11545, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961684.strongpipe.live:11545
-http = h738106.strongpipe.live:11743, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h738106.strongpipe.live:11743
-http = h63956.strongpipe.live:11545, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h63956.strongpipe.live:11545
-https://sub.store/download/Maying, tag=𝗠𝗮𝘆𝗶𝗻𝗴, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/SSR_Letter.png, update-interval=172800, opt-parser=true, enabled=true
-http = h890361.strongpipe.live:11744, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h890361.strongpipe.live:11744
-http = h961684.strongpipe.live:11745, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961684.strongpipe.live:11745
-http = h192837.strongpipe.live:11445, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h192837.strongpipe.live:11445
-http = h890361.strongpipe.live:11743, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h890361.strongpipe.live:11743
-http = h890361.strongpipe.live:11544, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h890361.strongpipe.live:11544
-https://raw.githubusercontent.com/limbopro/Profiles4limbo/main/unlesssub.txt, tag=无用节点, img-url=power.system, update-interval=172800, opt-parser=false, enabled=true
-http = h192837.strongpipe.live:11745, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h192837.strongpipe.live:11745
-http = h3816tw.strongpipe.live:20449, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=🇨🇳 h3816tw.strongpipe.live:20449
-http = h517439.strongpipe.live:11344, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h517439.strongpipe.live:11344
-https://sub.sslinks.co.in/api/v1/client/subscribe?token=, tag=第一机场, update-interval=86400, opt-parser=true, enabled=true, img-url=https://raw.githubusercontent.com/Ge-HaoYa/Airport/main/icon/ssLinks.png
-http = h890361.strongpipe.live:11443, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h890361.strongpipe.live:11443
-http = h961684.strongpipe.live:11444, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961684.strongpipe.live:11444
-http = h63956.strongpipe.live:11444, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h63956.strongpipe.live:11444
-http=106.52.127.72:19951, fast-open=false, udp-relay=false, tag=NeteaseMusic
-http = h63956.strongpipe.live:11745, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h63956.strongpipe.live:11745
-http = h961359.strongpipe.live:11543, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961359.strongpipe.live:11543
 http = h192837.strongpipe.live:11543, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h192837.strongpipe.live:11543
-http = h890361.strongpipe.live:11344, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h890361.strongpipe.live:11344
-http = h961359.strongpipe.live:11243, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961359.strongpipe.live:11243
-http = h961359.strongpipe.live:11245, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961359.strongpipe.live:11245
-http = h961684.strongpipe.live:11443, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961684.strongpipe.live:11443
-http = h517439.strongpipe.live:11345, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h517439.strongpipe.live:11345
-http = h890361.strongpipe.live:11444, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h890361.strongpipe.live:11444
-https://Texon 订阅地址 #emoji=2&in=港+新+日+美&replace=香[\u4e00-\u9fa5]{4}\s@菜场.香港.0+新[\u4e00-\u9fa5]{4}\s@菜场.狮城.0+日[\u4e00-\u9fa5]{4}\s@菜场.日本.0+美[\u4e00-\u9fa5]{4}\s@菜场.美国.0&rename=港.01@港.01%20❀&sort=🇭🇰>🇸🇬, tag=Texon ✯₁₅, img-url=https://raw.githubusercontent.com/chaizia/Profiles/master/faviconico/Texon.png, update-interval=86400, opt-parser=true, enabled=true
-https://subb.zeasay.com/sub?target=quanx&url=https%3A%2F%2Fapi.luchao.me%2Fsubscribe%2F8982%2FVA2vAN7WPNk%2Fssr%2F&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online.ini&emoji=true&list=false&tfo=false&scv=false&fdn=false&sort=false, tag=WORK, update-interval=86400, opt-parser=false, enabled=true
-http = h192837.strongpipe.live:11544, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h192837.strongpipe.live:11544
-http = h961359.strongpipe.live:11743, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961359.strongpipe.live:11743
-http = h890361.strongpipe.live:11343, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h890361.strongpipe.live:11343
 https://pptp.cloud/api/v1/client/subscribe?token=25c54155-a0b2-4018-92e2-81ad81fd3ea5, tag=Mdss, update-interval=172800, opt-parser=true, enabled=true
-https://raw.githubusercontent.com/crossutility/Quantumult-X/master/server.snippet#rename=[香港], tag=URI格式示范(请导入自己订阅), update-interval=86400, opt-parser=true,  img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Quantumult_X.png, enabled=true
-http = h63956.strongpipe.live:11743, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h63956.strongpipe.live:11743
-http = h738106.strongpipe.live:11443, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h738106.strongpipe.live:11443
-http = h192837.strongpipe.live:11345, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h192837.strongpipe.live:11345
-http = h63956.strongpipe.live:11544, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h63956.strongpipe.live:11544
-http = h3816tw.strongpipe.live:20448, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=🇨🇳 h3816tw.strongpipe.live:20448
-http = h517439.strongpipe.live:11443, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h517439.strongpipe.live:11443
-https://openit-fq.cf/long#, tag=Openit, update-interval=18000, opt-parser=true, enabled=true
-http = h738106.strongpipe.live:11344, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h738106.strongpipe.live:11344
-http = h738106.strongpipe.live:11445, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h738106.strongpipe.live:11445
-http = h961359.strongpipe.live:11344, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961359.strongpipe.live:11344
-http = h63956.strongpipe.live:11343, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h63956.strongpipe.live:11343
-https://sub.wallless.cloud/api/v1/client/subscribe?token=c64ec3e873379eccbcde50586c73d71d, tag=wallless, update-interval=172800, opt-parser=true, enabled=true
-http = h517439.strongpipe.live:11445, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h517439.strongpipe.live:11445
-http = h63956.strongpipe.live:11744, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h63956.strongpipe.live:11744
-https://openit.ml/long#, tag=Openit, update-interval=172800, opt-parser=true, enabled=true
-http = h738106.strongpipe.live:11544, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h738106.strongpipe.live:11544
-https, tag=Maying, opt-parser=false, enabled=true
+http = h890361.strongpipe.live:11245, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h890361.strongpipe.live:11245
+http = h961684.strongpipe.live:11544, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961684.strongpipe.live:11544
+http = h738106.strongpipe.live:11343, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h738106.strongpipe.live:11343
+http = h517439.strongpipe.live:11343, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h517439.strongpipe.live:11343
 http = h63956.strongpipe.live:11445, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h63956.strongpipe.live:11445
-http = h517439.strongpipe.live:11444, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h517439.strongpipe.live:11444
-http = h961359.strongpipe.live:11345, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961359.strongpipe.live:11345
-http = h961684.strongpipe.live:11344, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961684.strongpipe.live:11344
-https://raw.githubusercontent.com/mianfeifq/share/main/data2022064.txt, tag=Tag-1654041615, update-interval=172800, opt-parser=true, enabled=true
-http = h63956.strongpipe.live:11344, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h63956.strongpipe.live:11344
-http = h961684.strongpipe.live:11245, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961684.strongpipe.live:11245
-https://raw.githubusercontent.com/crossutility/Quantumult-X/master/server.txt#rename=[香港], tag=示范(请先导入自己订阅/节点), update-interval=86400, opt-parser=true,  img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Quantumult_X.png, enabled=true
-http = h3816tw.strongpipe.live:20443, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=🇨🇳 h3816tw.strongpipe.live:20443
-https://sub.store/download/collection/Server, tag=𝗦𝘂𝗽𝗽𝗼𝗿𝘁, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/VMess_Letter.png, update-interval=172800, opt-parser=true, enabled=true
-http = h738106.strongpipe.live:11745, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h738106.strongpipe.live:11745
-https, tag=Nexitally, opt-parser=false, enabled=true
-http = h517439.strongpipe.live:11544, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h517439.strongpipe.live:11544
-https://api.ikuuu.science/link/elVMKUI0kmkPyWyY?sub=3&extend=1, tag=ikuuu, update-interval=172800, opt-parser=true, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/Element.png, enabled=true
-https://subscribe.s7p7.top/link/yRVnvYQ0a8MNSZmu?list=quantumultx, tag=FastFrog, update-interval=172800, opt-parser=true, enabled=true
-http = h890361.strongpipe.live:11445, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h890361.strongpipe.live:11445
-https://sub.store/download/collection/vps_qx, tag=𝗦𝘂𝗽𝗽𝗼𝗿𝘁, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/VMess_Letter.png, update-interval=172800, opt-parser=false, enabled=true
-http = h890361.strongpipe.live:11345, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h890361.strongpipe.live:11345
-http = h961684.strongpipe.live:11744, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961684.strongpipe.live:11744
-https://bulink.me/sub/gevexn/ss, tag=https://bulink.me/sub/gevexn/ss, update-interval=172800, opt-parser=true, enabled=false
-http = h63956.strongpipe.live:11244, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h63956.strongpipe.live:11244
-https://Nexitally 订阅地址 #emoji=2&regex=(?!.*(Pre|Str)).*(Hon|Jap|Sin|Tai)&sort=🇭🇰>🇸🇬>🇨🇳&rename=Hong%20Kong%20@佩奇.香港.+Taiwan%20@佩奇.台湾.+Japan%20@佩奇.日本.+Singapore%20@佩奇.狮城., tag=Nexitally ✯₂₅, img-url=https://raw.githubusercontent.com/chaizia/Profiles/master/faviconico/Nex2.png, update-interval=86400, opt-parser=true, enabled=true
-https://raw.githubusercontent.com/freefq/free/master/v2, tag=Tag-1654041630, update-interval=172800, opt-parser=true, enabled=false
-http = h961359.strongpipe.live:11343, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961359.strongpipe.live:11343
-https://sub, tag=1, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Paoluz.png, update-interval=172800, opt-parser=true, enabled=true
-http = h192837.strongpipe.live:11344, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h192837.strongpipe.live:11344
-http = h961684.strongpipe.live:11445, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961684.strongpipe.live:11445
-http = h738106.strongpipe.live:11244, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h738106.strongpipe.live:11244
-https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/Gift/unlesssub.txt, tag=无用节点（❌请不要动它）, enabled=true
-http = h192837.strongpipe.live:11743, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h192837.strongpipe.live:11743
-https://raw.githubusercontent.com/crossutility/Quantumult-X/master/server-complete.txt, tag=示范(导入后更新并删除示范),  img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Quantumult_X.png, enabled=true
-https://raw.githubusercontent.com/iDepth/sfw/main/QuantumultX/server/server.txt, tag=示范(导入后更新并删除示范), enabled=false
-http = h63956.strongpipe.live:11443, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h63956.strongpipe.live:11443
-http = h961359.strongpipe.live:11544, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961359.strongpipe.live:11544
+https://bulink.me/sub/gevexn/vm, tag=https://bulink.me/sub/gevexn/vm, update-interval=172800, opt-parser=true, enabled=false
+https://Texon 订阅地址 #emoji=2&in=港+新+日+美&replace=香[\u4e00-\u9fa5]{4}\s@菜场.香港.0+新[\u4e00-\u9fa5]{4}\s@菜场.狮城.0+日[\u4e00-\u9fa5]{4}\s@菜场.日本.0+美[\u4e00-\u9fa5]{4}\s@菜场.美国.0&rename=港.01@港.01%20❀&sort=🇭🇰>🇸🇬, tag=Texon ✯₁₅, img-url=https://raw.githubusercontent.com/chaizia/Profiles/master/faviconico/Texon.png, update-interval=86400, opt-parser=true, enabled=true
 https://abcd/abcd/abcd/abcd/ssr/#out=最新&sort=1, tag=q1travel, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Airport.png, update-interval=172800, opt-parser=true, enabled=true
-http = h961359.strongpipe.live:11745, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961359.strongpipe.live:11745
-http = h961684.strongpipe.live:11743, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961684.strongpipe.live:11743
-http = h738106.strongpipe.live:11744, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h738106.strongpipe.live:11744
-http = h961359.strongpipe.live:11244, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961359.strongpipe.live:11244
-https://github.com/ddgksf2013/Cuttlefish/raw/master/Server/PlaneVPN.sub, tag=墨鱼手记, update-interval=172800, opt-parser=true, enabled=false
-https://openit.ml/Clash.yaml#, tag=HTTPS, update-interval=2592000, opt-parser=true, enabled=true
-http = h192837.strongpipe.live:11444, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h192837.strongpipe.live:11444
-http = h517439.strongpipe.live:11245, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h517439.strongpipe.live:11245
+http = h3816tw.strongpipe.live:20443, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=🇨🇳 h3816tw.strongpipe.live:20443
+http = h517439.strongpipe.live:11544, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h517439.strongpipe.live:11544
+http = h63956.strongpipe.live:11343, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h63956.strongpipe.live:11343
+http = h63956.strongpipe.live:11545, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h63956.strongpipe.live:11545
+http = h738106.strongpipe.live:11545, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h738106.strongpipe.live:11545
+http = h961359.strongpipe.live:11445, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961359.strongpipe.live:11445
+https://raw.githubusercontent.com/crossutility/Quantumult-X/master/server.snippet#rename=[香港], tag=URI格式示范(请导入自己订阅), update-interval=86400, opt-parser=true,  img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Quantumult_X.png, enabled=true
+https://sub.store/download/Dler, tag=𝗗𝗹𝗲𝗿𝗖𝗹𝗼𝘂𝗱, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Trojan_Letter.png, update-interval=86400, opt-parser=true, enabled=true
+http = h192837.strongpipe.live:11544, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h192837.strongpipe.live:11544
+http = h961684.strongpipe.live:11243, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961684.strongpipe.live:11243
+http = h961359.strongpipe.live:11344, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961359.strongpipe.live:11344
+http = h3816tw.strongpipe.live:20447, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=🇨🇳 h3816tw.strongpipe.live:20447
+https://raw.githubusercontent.com/mianfeifq/share/main/data2022064.txt, tag=Tag-1654041615, update-interval=172800, opt-parser=true, enabled=true
+http = h517439.strongpipe.live:11344, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h517439.strongpipe.live:11344
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/proxies/main/sngxprofreeqx, tag=公众号少年歌行pro🤪, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/icons/main/genshin/mona.png, update-interval=86400, opt-parser=false, enabled=true
+http = h961359.strongpipe.live:11443, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961359.strongpipe.live:11443
+http = h192837.strongpipe.live:11443, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h192837.strongpipe.live:11443
+http = h738106.strongpipe.live:11543, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h738106.strongpipe.live:11543
 https://configuration.osk2.com/api/v1/client/subscribe?token=07e0f0bd2499153ce7712d0cf0916e00, tag=Catnet, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/catnet.png, update-interval=86400, opt-parser=false, enabled=true
+http = h192837.strongpipe.live:11345, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h192837.strongpipe.live:11345
+http = h517439.strongpipe.live:11443, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h517439.strongpipe.live:11443
+http = h63956.strongpipe.live:11744, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h63956.strongpipe.live:11744
+http = h192837.strongpipe.live:11245, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h192837.strongpipe.live:11245
+https://raw.fastgit.org/freefq/free/master/v2, tag=https://raw.fastgit.org/freefq/free/master/v2, update-interval=172800, opt-parser=true, enabled=true
+http = h3816tw.strongpipe.live:20449, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=🇨🇳 h3816tw.strongpipe.live:20449
+https://github.com/ddgksf2013/Cuttlefish/raw/master/Server/PlaneVPN.sub, tag=墨鱼手记, update-interval=172800, opt-parser=true, enabled=false
+http = h3816tw.strongpipe.live:20448, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=🇨🇳 h3816tw.strongpipe.live:20448
+http = h738106.strongpipe.live:11245, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h738106.strongpipe.live:11245
+http = h961684.strongpipe.live:11443, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961684.strongpipe.live:11443
+https://raw.githubusercontent.com/sngxpro/proxies/main/sngxprofreeqx, tag=公众号少年歌行pro🤪, img-url=https://raw.githubusercontent.com/sngxpro/icons/main/genshin/mona.png, update-interval=86400, opt-parser=false, enabled=true
+https://Nexitally 订阅地址 #emoji=2&regex=(?!.*(Pre|Str)).*(Hon|Jap|Sin|Tai)&sort=🇭🇰>🇸🇬>🇨🇳&rename=Hong%20Kong%20@佩奇.香港.+Taiwan%20@佩奇.台湾.+Japan%20@佩奇.日本.+Singapore%20@佩奇.狮城., tag=Nexitally ✯₂₅, img-url=https://raw.githubusercontent.com/chaizia/Profiles/master/faviconico/Nex2.png, update-interval=86400, opt-parser=true, enabled=true
+http = h517439.strongpipe.live:11445, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h517439.strongpipe.live:11445
+http = h63956.strongpipe.live:11443, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h63956.strongpipe.live:11443
+http = h890361.strongpipe.live:11543, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h890361.strongpipe.live:11543
+https://openit-fq.cf/long#, tag=Openit, update-interval=18000, opt-parser=true, enabled=true
+http = h63956.strongpipe.live:11543, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h63956.strongpipe.live:11543
+http = h961684.strongpipe.live:11543, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961684.strongpipe.live:11543
+http = h517439.strongpipe.live:11745, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h517439.strongpipe.live:11745
+http = h890361.strongpipe.live:11743, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h890361.strongpipe.live:11743
+https, tag=Maying, opt-parser=false, enabled=true
+http = h961684.strongpipe.live:11445, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961684.strongpipe.live:11445
+http = h738106.strongpipe.live:11345, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h738106.strongpipe.live:11345
+http = h738106.strongpipe.live:11745, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h738106.strongpipe.live:11745
+https://raw.githubusercontent.com/freefq/free/master/v2, tag=Tag-1654041630, update-interval=172800, opt-parser=true, enabled=false
+http = h63956.strongpipe.live:11243, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h63956.strongpipe.live:11243
+http = h517439.strongpipe.live:11743, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h517439.strongpipe.live:11743
+https, tag=Nexitally, opt-parser=false, enabled=true
+http = h517439.strongpipe.live:11543, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h517439.strongpipe.live:11543
+http = h961359.strongpipe.live:11245, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961359.strongpipe.live:11245
+http = h961684.strongpipe.live:11345, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961684.strongpipe.live:11345
+https://raw.githubusercontent.com/crossutility/Quantumult-X/master/server-complete.txt, tag=示范(导入后更新并删除示范),  img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Quantumult_X.png, enabled=true
+http = h738106.strongpipe.live:11744, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h738106.strongpipe.live:11744
+https://subscribe.s7p7.top/link/yRVnvYQ0a8MNSZmu?list=quantumultx, tag=FastFrog, update-interval=172800, opt-parser=true, enabled=true
+http = h961359.strongpipe.live:11544, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961359.strongpipe.live:11544
+https://raw.githubusercontent.com/crossutility/Quantumult-X/master/server.txt#rename=[香港], tag=示范(请先导入自己订阅/节点), update-interval=86400, opt-parser=true,  img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Quantumult_X.png, enabled=true
+http = h517439.strongpipe.live:11243, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h517439.strongpipe.live:11243
+http = h517439.strongpipe.live:11345, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h517439.strongpipe.live:11345
+https://raw.githubusercontent.com/PoetryU/Scientist/master/Profiles/UnblockNetMusic/unblock.yaml, tag=UnblockNeteaseMusic, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Netease_Music_Unlock.png, update-interval=432000, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/erdongchanyo/Rules/main/Quantumult%20X/LazyConf/edcFreeServer.list, tag=edcFreeServer, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/Airport/EDC.png, update-interval=172800, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/iDepth/sfw/main/QuantumultX/server/server.txt, tag=示范(导入后更新并删除示范), enabled=false
+http = h890361.strongpipe.live:11445, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h890361.strongpipe.live:11445
+http = h63956.strongpipe.live:11544, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h63956.strongpipe.live:11544
+http = h63956.strongpipe.live:11244, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h63956.strongpipe.live:11244
+https://raw.githubusercontent.com/crossutility/Quantumult-X/master/server-complete.snippet, tag=QuanX格式示范(导入后删除这两个示范), img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Quantumult_X.png, enabled=true
+https://sub, tag=1, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Paoluz.png, update-interval=172800, opt-parser=true, enabled=true
+http = h961684.strongpipe.live:11245, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961684.strongpipe.live:11245
+http = h890361.strongpipe.live:11744, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h890361.strongpipe.live:11744
+http = h961684.strongpipe.live:11545, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961684.strongpipe.live:11545
+http = h738106.strongpipe.live:11244, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h738106.strongpipe.live:11244
+http = h738106.strongpipe.live:11344, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h738106.strongpipe.live:11344
+http = h192837.strongpipe.live:11344, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h192837.strongpipe.live:11344
+http = h63956.strongpipe.live:11344, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h63956.strongpipe.live:11344
+https://sub.wallless.cloud/api/v1/client/subscribe?token=c64ec3e873379eccbcde50586c73d71d, tag=wallless, update-interval=172800, opt-parser=true, enabled=true
+http = h890361.strongpipe.live:11545, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h890361.strongpipe.live:11545
+http = h738106.strongpipe.live:11443, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h738106.strongpipe.live:11443
+http = h63956.strongpipe.live:11444, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h63956.strongpipe.live:11444
+http = h192837.strongpipe.live:11343, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h192837.strongpipe.live:11343
+http = h890361.strongpipe.live:11444, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h890361.strongpipe.live:11444
+https://raw.githubusercontent.com/crossutility/Quantumult-X/master/server-complete.txt, tag=速蛙云(导入后更新并删除示范), img-url=https://raw.githubusercontent.com/NB921/picture/main/Fastfrog.png, update-interval=172800, opt-parser=true, enabled=true
+http = h517439.strongpipe.live:11245, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h517439.strongpipe.live:11245
+https://openit.ml/long#, tag=Openit, update-interval=172800, opt-parser=true, enabled=true
+http = h192837.strongpipe.live:11445, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h192837.strongpipe.live:11445
+https://sub.sslinks.co.in/api/v1/client/subscribe?token=, tag=第一机场, update-interval=86400, opt-parser=true, enabled=true, img-url=https://raw.githubusercontent.com/Ge-HaoYa/Airport/main/icon/ssLinks.png
+http = h961359.strongpipe.live:11444, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961359.strongpipe.live:11444
+https://www.example.com/
+http = h192837.strongpipe.live:11444, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h192837.strongpipe.live:11444
+http = h517439.strongpipe.live:11244, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h517439.strongpipe.live:11244
+https://proxies.bihai.cf/vmess/sub?filter=r, tag=TemporaryUse, update-interval=172800, opt-parser=true, enabled=true
+http = h961359.strongpipe.live:11345, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961359.strongpipe.live:11345
+http = h517439.strongpipe.live:11744, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h517439.strongpipe.live:11744
+http = h3816tw.strongpipe.live:20446, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=🇨🇳 h3816tw.strongpipe.live:20446
+https://bulink.me/sub/gevexn/ss, tag=https://bulink.me/sub/gevexn/ss, update-interval=172800, opt-parser=true, enabled=false
+http = h890361.strongpipe.live:11344, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h890361.strongpipe.live:11344
+http = h961684.strongpipe.live:11743, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961684.strongpipe.live:11743
+http = h3816tw.strongpipe.live:20445, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=🇨🇳 h3816tw.strongpipe.live:20445
+http = h961359.strongpipe.live:11343, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961359.strongpipe.live:11343
+https://raw.githubusercontent.com/PoetryU/Scientist/master/Profiles/UnblockNetMusic/unblock.yaml#checkurl=http://interface3.music.163.com, tag=UnblockNeteaseMusic, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Netease_Music_Unlock.png, update-interval=432000, opt-parser=true, enabled=true
+https://sub.store/download/collection/Server, tag=𝗦𝘂𝗽𝗽𝗼𝗿𝘁, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/VMess_Letter.png, update-interval=172800, opt-parser=true, enabled=true
+http = h517439.strongpipe.live:11444, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h517439.strongpipe.live:11444
+http = h517439.strongpipe.live:11545, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h517439.strongpipe.live:11545
+http = h63956.strongpipe.live:11345, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h63956.strongpipe.live:11345
+http = h890361.strongpipe.live:11443, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h890361.strongpipe.live:11443
+http = h961359.strongpipe.live:11545, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961359.strongpipe.live:11545
+http = h961359.strongpipe.live:11244, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961359.strongpipe.live:11244
+http = h3816tw.strongpipe.live:20444, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=🇨🇳 h3816tw.strongpipe.live:20444
+http = h890361.strongpipe.live:11544, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h890361.strongpipe.live:11544
+https://sub.store/download/collection/vps_qx, tag=𝗦𝘂𝗽𝗽𝗼𝗿𝘁, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/VMess_Letter.png, update-interval=172800, opt-parser=false, enabled=true
+http = h192837.strongpipe.live:11545, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h192837.strongpipe.live:11545
+https://raw.githubusercontent.com/crossutility/Quantumult-X/master/server.snippet#rename=[香港], tag=URI格式示范(请导入自己订阅), update-interval=86400, opt-parser=true, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Quantumult_X.png, enabled=true
+https://dingyue.suying666.info/link/vrSp0MMpQNPfbX2f?sub=3, tag=我的订阅, update-interval=172800, opt-parser=true, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/OvO.png, enabled=true
+http=106.52.127.72:19951, fast-open=false, udp-relay=false, tag=NeteaseMusic
+http = h961359.strongpipe.live:11743, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961359.strongpipe.live:11743
+http = h738106.strongpipe.live:11445, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h738106.strongpipe.live:11445
+https://openit.ml/Clash.yaml#, tag=HTTPS, update-interval=2592000, opt-parser=true, enabled=true
+http = h890361.strongpipe.live:11345, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h890361.strongpipe.live:11345
+http = h961684.strongpipe.live:11344, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961684.strongpipe.live:11344
+http = h961359.strongpipe.live:11243, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961359.strongpipe.live:11243
+http = h961684.strongpipe.live:11745, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961684.strongpipe.live:11745
+http = h738106.strongpipe.live:11243, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h738106.strongpipe.live:11243
+http = h961359.strongpipe.live:11745, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961359.strongpipe.live:11745
+http = h738106.strongpipe.live:11743, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h738106.strongpipe.live:11743
+http = h890361.strongpipe.live:11244, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h890361.strongpipe.live:11244
+http = h961359.strongpipe.live:11543, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961359.strongpipe.live:11543
+http = h961359.strongpipe.live:11744, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961359.strongpipe.live:11744
+http = h63956.strongpipe.live:11743, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h63956.strongpipe.live:11743
+http = h961684.strongpipe.live:11444, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961684.strongpipe.live:11444
+https://subb.zeasay.com/sub?target=quanx&url=https%3A%2F%2Fapi.luchao.me%2Fsubscribe%2F8982%2FVA2vAN7WPNk%2Fssr%2F&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online.ini&emoji=true&list=false&tfo=false&scv=false&fdn=false&sort=false, tag=WORK, update-interval=86400, opt-parser=false, enabled=true
+https://api.ikuuu.science/link/elVMKUI0kmkPyWyY?sub=3&extend=1, tag=ikuuu, update-interval=172800, opt-parser=true, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/Element.png, enabled=true
+http = h738106.strongpipe.live:11544, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h738106.strongpipe.live:11544
+http = h63956.strongpipe.live:11745, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h63956.strongpipe.live:11745
+https://sub.ssr.sh/link/aL9gzxbqvfbPUHFE?mu=1, tag=魅影极速, update-interval=86400, opt-parser=true, enabled=true
+http = h192837.strongpipe.live:11743, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h192837.strongpipe.live:11743
+http = h192837.strongpipe.live:11744, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h192837.strongpipe.live:11744
+http = h738106.strongpipe.live:11444, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h738106.strongpipe.live:11444
+https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/Gift/unlesssub.txt, tag=无用节点（❌请不要动它）, enabled=true
+https://sub.store/download/Maying, tag=𝗠𝗮𝘆𝗶𝗻𝗴, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/SSR_Letter.png, update-interval=172800, opt-parser=true, enabled=true
+http = h890361.strongpipe.live:11243, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h890361.strongpipe.live:11243
 http = h63956.strongpipe.live:11245, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h63956.strongpipe.live:11245
-vmess = jmnt.hkix.fun:17000, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🇨🇳 [主力][Netflix]广州 移动→台湾
-shadowsocks=c21s2.jamjams.net:31282, method=aes-256-gcm, password=E6ANmLye3X, fast-open=false, udp-relay=false,tag=free
-vmess = jmnt.hkix.fun:19111, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🇰🇷 [Netflix]移动2→韩国cc
-vmess = zh.anynode.pw:19111, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🇰🇷 [Netflix]移动→韩国cc
-vmess = jmnt.hkix.fun:50001, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, obfs=wss, obfs-host=meeting.speednetwork.xyz, obfs-uri=/v1, fast-open=false, tag=🇩🇪 广州 移动→德国
-trojan=softbank.necirly.ml:443, password=5aff2d16b6, over-tls=true, tls-host=softbank.necirly.ml, tls-verification=true, fast-open=false, udp-relay=false, tag=日本
-vmess = hnlt.hkix.fun:50001, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, obfs=wss, obfs-host=meeting.speednetwork.xyz, obfs-uri=/v1, fast-open=false, tag=🇩🇪 上海 联通→德国
-vmess = jmnt.hkix.fun:50015, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, obfs=wss, obfs-host=meeting.speednetwork.xyz, obfs-uri=/v1, fast-open=false, tag=🇯🇵 [Netflix]广州 移动→日本ora
-vmess = jmnt.hkix.fun:53004, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, obfs=ws, obfs-host=v.qq.com, obfs-uri=/v1, fast-open=false, tag=🇬🇧 [Netflix]佛山 移动→英国cf
-shadowsocks=148.100.78.174:51900, method=aes-256-gcm, password=uch4LfztUy, fast-open=false, udp-relay=false, tag=SHADOWSOCKS
-shadowsocks=music.desperadoj.com:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_etg0, tag=解锁节点, fast-open=false, udp-relay=false
-shadowsocks=example.com:443, method=chacha20, password=pwd, obfs=tls, obfs-host=bing.com, fast-open=false, udp-relay=false, tag=ss-03
-shadowsocks=example.com:80, method=aes-128-gcm, password=pwd, obfs=ws, fast-open=false, tag=无用节点1
-vmess = hnlt.hkix.fun:17001, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🏳️‍🌈 [大流量]上海 联通→日本dg
-vmess = zh.anynode.pw:19011, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🇸🇬 [Netflix]广州 移动→新加坡
+http = h961684.strongpipe.live:11744, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961684.strongpipe.live:11744
+http = h961684.strongpipe.live:11244, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961684.strongpipe.live:11244
+https://raw.githubusercontent.com/sngxpro/proxies/main/sngxprofreeqx2, tag=少年歌行pro代理池🤩, img-url=https://raw.githubusercontent.com/sngxpro/icons/main/genshin/qin.png, update-interval=86400, opt-parser=false, enabled=true 
+http = h192837.strongpipe.live:11745, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h192837.strongpipe.live:11745
+http = h192837.strongpipe.live:11244, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h192837.strongpipe.live:11244
+https://sub.sptao.net/api/v1/client/subscribe?token=4ac98a0fba12841cc1eb4eb40c359a12, tag=AAA, update-interval=172800, opt-parser=true, enabled=true
+http = h890361.strongpipe.live:11745, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h890361.strongpipe.live:11745
+https://raw.githubusercontent.com/limbopro/Profiles4limbo/main/unlesssub.txt, tag=无用节点, img-url=power.system, update-interval=172800, opt-parser=false, enabled=true
+http = h961684.strongpipe.live:11343, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h961684.strongpipe.live:11343
+http = h890361.strongpipe.live:11343, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tag=h890361.strongpipe.live:11343
+https://raw.githubusercontent.com/crossutility/Quantumult-X/master/server-complete.snippet, tag=QuanX格式示范(导入后删除这两个示范),  img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Quantumult_X.png, enabled=true
 vmess = jmnt.hkix.fun:18000, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🇭🇰 [主力]佛山 移动→香港az
-trojan=4837.necirly.ml:443, password=3fb3b8b4e9, over-tls=true, tls-host=4837.necirly.ml, tls-verification=true, fast-open=false, udp-relay=false, tag=美国
-vmess = zh.anynode.pw:19017, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🇮🇳 [Netflix]移动→印度
-vmess = jmnt.hkix.fun:19011, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🇸🇬 [Netflix]佛山 移动→新加坡
 vmess = zh.anynode.pw:17001, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🏳️‍🌈 [大流量]佛山 移动→日本dg
-vmess = jmnt.hkix.fun:17001, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🏳️‍🌈 [大流量]广州 移动→日本dg
-vmess = 140.207.232.47:18000, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=[备用2][域名无法解析时用]
-shadowsocks=example.com:80, method=aes-128-gcm, password=pwd, obfs=ws, fast-open=false, tag=无用节点2
-vmess = jmnt.hkix.fun:19017, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🇮🇳 [Netflix]移动2→印度
-vmess=wang0729.www:443, method=aes-128-gcm, password=12899755-6842-495b-a650-d13644b01f55, obfs=wss, obfs-host=euserv.wang0729.gq, obfs-uri=/, tls-verification=false, fast-open=false, udp-relay=false, aead=true, tag=🚑EUSERV
-vmess = zh.anynode.pw:19079, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🇺🇲 [主力]广州 移动→美国pf
-vmess = zh.anynode.pw:53004, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, obfs=ws, obfs-host=v.qq.com, obfs-uri=/v1, fast-open=false, tag=🇬🇧 [Netflix]广州 移动→英国cf
+vmess = jmnt.hkix.fun:53004, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, obfs=ws, obfs-host=v.qq.com, obfs-uri=/v1, fast-open=false, tag=🇬🇧 [Netflix]佛山 移动→英国cf
+shadowsocks=c21s2.jamjams.net:31282, method=aes-256-gcm, password=E6ANmLye3X, fast-open=false, udp-relay=false,tag=free
+vmess = jmnt.hkix.fun:17000, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🇨🇳 [主力][Netflix]广州 移动→台湾
 vmess = hnlt.hkix.fun:18000, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🏳️‍🌈 [大流量]上海 联通→香港az
-vmess = 120.232.214.235:18000, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=[备用1][域名无法解析时用]
-vmess = hnlt.hkix.fun:19079, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🇺🇲 [均衡]上海 联通→美国
-vmess = zh.anynode.pw:19000, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🇺🇲 [Netflix]广州 移动→美国g
+trojan=softbank.necirly.ml:443, password=5aff2d16b6, over-tls=true, tls-host=softbank.necirly.ml, tls-verification=true, fast-open=false, udp-relay=false, tag=日本
+shadowsocks=example.com:80, method=aes-128-gcm, password=pwd, obfs=ws, fast-open=false, tag=无用节点1
 vmess = hnlt.hkix.fun:19112, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🇬🇧 [Netflix]上海 联通→英国
-vmess = zh.anynode.pw:18000, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🇭🇰 [主力]广州 移动→香港az
+vmess = zh.anynode.pw:19011, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🇸🇬 [Netflix]广州 移动→新加坡
+vmess = jmnt.hkix.fun:50015, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, obfs=wss, obfs-host=meeting.speednetwork.xyz, obfs-uri=/v1, fast-open=false, tag=🇯🇵 [Netflix]广州 移动→日本ora
+shadowsocks=music.desperadoj.com:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_etg0, tag=解锁节点, fast-open=false, udp-relay=false
+vmess = zh.anynode.pw:19017, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🇮🇳 [Netflix]移动→印度
+shadowsocks=example.com:443, method=chacha20, password=pwd, obfs=tls, obfs-host=bing.com, fast-open=false, udp-relay=false, tag=ss-03
+vmess = jmnt.hkix.fun:50001, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, obfs=wss, obfs-host=meeting.speednetwork.xyz, obfs-uri=/v1, fast-open=false, tag=🇩🇪 广州 移动→德国
+vmess = jmnt.hkix.fun:19111, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🇰🇷 [Netflix]移动2→韩国cc
+trojan=4837.necirly.ml:443, password=3fb3b8b4e9, over-tls=true, tls-host=4837.necirly.ml, tls-verification=true, fast-open=false, udp-relay=false, tag=美国
+vmess = hnlt.hkix.fun:50001, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, obfs=wss, obfs-host=meeting.speednetwork.xyz, obfs-uri=/v1, fast-open=false, tag=🇩🇪 上海 联通→德国
+vmess = zh.anynode.pw:53004, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, obfs=ws, obfs-host=v.qq.com, obfs-uri=/v1, fast-open=false, tag=🇬🇧 [Netflix]广州 移动→英国cf
+vmess = jmnt.hkix.fun:19017, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🇮🇳 [Netflix]移动2→印度
+vmess = zh.anynode.pw:19000, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🇺🇲 [Netflix]广州 移动→美国g
+shadowsocks=example.com:80, method=aes-128-gcm, password=pwd, obfs=ws, fast-open=false, tag=无用节点2
+vmess = hnlt.hkix.fun:17001, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🏳️‍🌈 [大流量]上海 联通→日本dg
+vmess = jmnt.hkix.fun:17001, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🏳️‍🌈 [大流量]广州 移动→日本dg
 vmess = zh.anynode.pw:17000, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🇨🇳 [主力][Netflix]佛山 移动→台湾
+vmess = zh.anynode.pw:18000, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🇭🇰 [主力]广州 移动→香港az
+vmess = 120.232.214.235:18000, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=[备用1][域名无法解析时用]
+shadowsocks=148.100.78.174:51900, method=aes-256-gcm, password=uch4LfztUy, fast-open=false, udp-relay=false, tag=SHADOWSOCKS
+vmess = zh.anynode.pw:19111, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🇰🇷 [Netflix]移动→韩国cc
+vmess = zh.anynode.pw:19079, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🇺🇲 [主力]广州 移动→美国pf
+vmess = jmnt.hkix.fun:19011, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🇸🇬 [Netflix]佛山 移动→新加坡
+vmess = hnlt.hkix.fun:19079, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🇺🇲 [均衡]上海 联通→美国
+vmess=wang0729.www:443, method=aes-128-gcm, password=12899755-6842-495b-a650-d13644b01f55, obfs=wss, obfs-host=euserv.wang0729.gq, obfs-uri=/, tls-verification=false, fast-open=false, udp-relay=false, aead=true, tag=🚑EUSERV
+vmess = 140.207.232.47:18000, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=[备用2][域名无法解析时用]
+servers.txt, tag=JMS, opt-parser=false, enabled=true
 vmess = hnlt.hkix.fun:19111, method=chacha20-ietf-poly1305, password=aff5dfe6-bcb8-4587-af0f-371b218f6f97, aead=true, fast-open=false, tag=🇰🇷 [Netflix]联通→韩国cc
